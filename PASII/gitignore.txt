@@ -1,0 +1,12 @@
+# Ignorar archivos y directorios del sistema
+AppData/
+Cookies/
+Datos de programa/
+Impresoras/
+Menú Inicio/
+Mis documentos/
+Plantillas/
+Reciente/
+SendTo/
+OneDrive/
+*.log
